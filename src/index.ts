@@ -1,3 +1,17 @@
 function sayHi () {
   console.log('hi')
+  console.log('hi')
+  console.log('hi')
+  console.log('hi')
+  console.log('hi')
+  console.log('hi')
+  console.log('hi')
+  console.log('hi')
+  console.log('hi')
+  console.log('hi')
+  console.log('hi')
+  console.log('hi')
+  console.log('hi')
+  console.log('hi')
+  console.log('hi, how are you')
 }
